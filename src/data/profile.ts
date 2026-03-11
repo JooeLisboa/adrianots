@@ -25,10 +25,8 @@ export const profile: ProfileData = {
     "Uma presença digital criada para conectar comunidade, converter audiência e elevar a marca AdrianoTS ao nível máximo.",
   primaryCta: {
     label: "Participar das Rifas",
-    href: "https://www.adrianots.com/"
+    href: "https://www.adrianots.com/",
   },
-  avatar:
-    "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=500&q=80",
-  heroImage:
-    "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1400&q=80"
+  avatar: "/avatar-adriano.jpg",
+  heroImage: "/avatar-adriano.jpg",
 };
